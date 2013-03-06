@@ -2,7 +2,9 @@
 
 This is a small server which serves static files in a papers
 directory.  The idea is that GET requests turn in to instructions
-given to Skim top open up a paper.
+given to
+[Skim](http://sourceforge.net/apps/mediawiki/skim-app/index.php?title=Main_Page)
+to open up a paper.
 
 Usage:
 
